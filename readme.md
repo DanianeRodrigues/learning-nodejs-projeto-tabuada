@@ -11,3 +11,11 @@ $ node --version
 ```bash
 $ git --version 
 ``` 
+
+## Instalação
+
+Clonar o repositório do Github e usar o npm de Node.js para instalar as dependências de módulos do projeto
+
+```bash
+git clone https://github.com/DanianeRodrigues/learning-nodejs-projeto-tabuada.git
+```
