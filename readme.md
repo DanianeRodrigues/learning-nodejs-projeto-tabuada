@@ -30,13 +30,14 @@ $node app
 ```
 Aplicação está configurada à rodar na porta 3000. Para acessar à aplicação entrar no endereço
 http://localhost:3000. Para alterar o numero da porta editar o quivo app.js. 
-## Dsenvolvimento 
+## Desenvolvimento 
 
 O projeto foi desenvolvido com:
 
 *[ node.js] (http://node.js.org) . PLataforma de desenvolvimento Javascript 
 
-*[Sublime text ] (https://www.sublimetext.com) . Editor de texto para programção.
+*[Sublime text ] (https://www.sublimetext.com) .Editor de texto para programação.
+
 
 ##Autores 
 
