@@ -19,3 +19,25 @@ Clonar o repositório do Github e usar o npm de Node.js para instalar as depend�
 ```bash
 git clone https://github.com/DanianeRodrigues/learning-nodejs-projeto-tabuada.git
 ```
+$ learning-ne-js-projeto-tabuada
+$ npm install
+
+##Utilização
+
+Para rodar a aplicação executar:
+```bash
+$node app
+```
+Aplicação está configurada à rodar na porta 3000. Para acessar à aplicação entrar no endereço
+http://localhost:3000. Para alterar o numero da porta editar o quivo app.js. 
+## Dsenvolvimento 
+
+O projeto foi desenvolvido com:
+
+*[ node.js] (http://node.js.org) . PLataforma de desenvolvimento Javascript 
+
+*[Sublime text ] (https://www.sublimetext.com) . Editor de texto para programção.
+
+##Autores 
+
+**Daniane Rodrigues de Faria** . [DanianeRodrigues](https://github.com/DanianeRodrigues/learning-nodejs-projeto-tabuada.git)
